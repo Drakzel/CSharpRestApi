@@ -1,0 +1,15 @@
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.deps.json
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.runtimeconfig.json
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.runtimeconfig.dev.json
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.dll
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.pdb
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppBLL.dll
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppDAL.dll
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppBLL.pdb
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.csproj.CoreCompileInputs.cache
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.AssemblyInfoInputs.cache
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.AssemblyInfo.cs
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.dll
+C:\Users\Me\Documents\Visual Studio 2017\Projects\FirstCoreSolution\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.pdb
